@@ -1,0 +1,16 @@
+D:\Users\300105363\AppData\Local\Temporary Projects\BudgetApp\bin\Debug\BudgetApp.exe.config
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\bin\Debug\BudgetApp.exe.config
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\bin\Debug\BudgetApp.exe
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\bin\Debug\BudgetApp.pdb
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\bin\Debug\BudgetApp.xml
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.vbprojResolveAssemblyReference.cache
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.BudgetApp.resources
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.Resources.resources
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.vbproj.GenerateResource.Cache
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.exe
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.xml
+D:\VB\W2018\Week2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab2\BudgetApp\BudgetApp\bin\Debug\BudgetApp.exe.config
+C:\Users\minh phan\Documents\MinhPhanLab2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab2\BudgetApp\BudgetApp\obj\Debug\BudgetApp.pdb

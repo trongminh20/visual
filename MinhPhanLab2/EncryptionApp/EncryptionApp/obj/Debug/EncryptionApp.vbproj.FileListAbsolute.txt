@@ -1,0 +1,11 @@
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe.config
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\bin\Debug\EncryptionApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.vbprojResolveAssemblyReference.cache
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Form1.resources
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.Resources.resources
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.vbproj.GenerateResource.Cache
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab2\EncryptionApp\EncryptionApp\obj\Debug\EncryptionApp.pdb
