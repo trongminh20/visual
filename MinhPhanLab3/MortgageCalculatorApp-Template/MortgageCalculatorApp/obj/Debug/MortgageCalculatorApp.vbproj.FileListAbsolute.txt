@@ -1,0 +1,28 @@
+D:\Users\300105363\AppData\Local\Temporary Projects\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe.config
+D:\VB\aW2019\Lab2\MortgageCalculatorApp\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe.config
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe.config
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.vbprojResolveAssemblyReference.cache
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.MortgageCalculatorFRM.resources
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.Resources.resources
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.vbproj.GenerateResource.Cache
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.xml
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.pdb
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.xml
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.exe
+D:\VB\aW2019\Lab3\MortgageCalculatorApp\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.pdb
+D:\VB\aW2019\Lab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe.config
+D:\VB\aW2019\Lab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.exe
+D:\VB\aW2019\Lab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.xml
+D:\VB\aW2019\Lab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.pdb
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe.config
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.exe
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.xml
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.pdb
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.vbprojResolveAssemblyReference.cache
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.MortgageCalculatorFRM.resources
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.Resources.resources
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\obj\Debug\MortgageCalculatorApp.vbproj.GenerateResource.Cache
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.exe
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.pdb
+C:\Users\minh phan\Documents\visual\MinhPhanLab3\MortgageCalculatorApp-Template\MortgageCalculatorApp\bin\Debug\MortgageCalculatorApp.xml

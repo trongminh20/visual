@@ -1,0 +1,37 @@
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\bin\Debug\ShapesApp.exe
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\bin\Debug\ShapesApp.xml
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.vbprojResolveAssemblyReference.cache
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.ShapesFRM.resources
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.Resources.resources
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.vbproj.GenerateResource.Cache
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.exe
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.xml
+D:\Users\300105363\AppData\Local\Temporary Projects\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.exe
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.xml
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.pdb
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\bin\Debug\ShapesApp.exe
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\bin\Debug\ShapesApp.pdb
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\bin\Debug\ShapesApp.xml
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.vbprojResolveAssemblyReference.cache
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.ShapesFRM.resources
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.Resources.resources
+D:\VB\aW2019\Lab6\ShapesApp\ShapesApp\obj\Debug\ShapesApp.vbproj.GenerateResource.Cache
+D:\VB\aW2019\Lab6\ShapesApp-Template\ShapesApp\bin\Debug\ShapesApp.exe.config
+D:\VB\aW2019\Lab6\ShapesApp-Template\ShapesApp\obj\Debug\ShapesApp.exe
+D:\VB\aW2019\Lab6\ShapesApp-Template\ShapesApp\obj\Debug\ShapesApp.xml
+D:\VB\aW2019\Lab6\ShapesApp-Template\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\bin\Debug\ShapesApp.exe.config
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\bin\Debug\ShapesApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\bin\Debug\ShapesApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\bin\Debug\ShapesApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.vbprojResolveAssemblyReference.cache
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.ShapesFRM.resources
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.Resources.resources
+C:\Users\minh phan\Documents\MinhPhanLab6\ShapesApp\obj\Debug\ShapesApp.vbproj.GenerateResource.Cache
