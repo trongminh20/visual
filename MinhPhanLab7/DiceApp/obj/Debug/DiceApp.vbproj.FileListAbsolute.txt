@@ -1,0 +1,44 @@
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\bin\Debug\DiceApp.exe.config
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\bin\Debug\DiceApp.exe
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\bin\Debug\DiceApp.pdb
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\bin\Debug\DiceApp.xml
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.vbprojResolveAssemblyReference.cache
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.DiceAppFRM.resources
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.Resources.resources
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.vbproj.GenerateResource.Cache
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.exe
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.xml
+D:\Users\300105363\AppData\Local\Temporary Projects\DiceApp\obj\Debug\DiceApp.pdb
+D:\VB\W2018\Week7\DiceApp\DiceApp\bin\Debug\DiceApp.exe.config
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.exe
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.xml
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.pdb
+D:\VB\W2018\Week7\DiceApp\DiceApp\bin\Debug\DiceApp.exe
+D:\VB\W2018\Week7\DiceApp\DiceApp\bin\Debug\DiceApp.pdb
+D:\VB\W2018\Week7\DiceApp\DiceApp\bin\Debug\DiceApp.xml
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.vbprojResolveAssemblyReference.cache
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.DiceAppFRM.resources
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.Resources.resources
+D:\VB\W2018\Week7\DiceApp\DiceApp\obj\Debug\DiceApp.vbproj.GenerateResource.Cache
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\bin\Debug\DiceApp.exe.config
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.exe
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.xml
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.pdb
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\bin\Debug\DiceApp.exe
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\bin\Debug\DiceApp.pdb
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\bin\Debug\DiceApp.xml
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.vbprojResolveAssemblyReference.cache
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.DiceAppFRM.resources
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.Resources.resources
+D:\VB\W2018\Week7\DiceApp-Template\DiceApp\obj\Debug\DiceApp.vbproj.GenerateResource.Cache
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\bin\Debug\DiceApp.exe.config
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\bin\Debug\DiceApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\bin\Debug\DiceApp.pdb
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\bin\Debug\DiceApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.vbprojResolveAssemblyReference.cache
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.DiceAppFRM.resources
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.Resources.resources
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.vbproj.GenerateResource.Cache
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.exe
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.xml
+C:\Users\minh phan\Documents\MinhPhanLab7\DiceApp\obj\Debug\DiceApp.pdb
